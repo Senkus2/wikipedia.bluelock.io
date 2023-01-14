@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../morrison lessons/web dev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "сoding kid"
+	}
+}
